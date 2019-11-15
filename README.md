@@ -12,7 +12,7 @@ Observation of adducts and neutral losses is quite common in electrospray ionisa
 
 Before launching mzAdan for the first time, make sure that you have installed a recent release of the Java Development Kit (JDK 8 or higher) and downloaded the most recent distribution of the software.
 
-To launch the application, on Mac OS simply double-click on the mzAdan.jar file or double click on the mzAdan.bat file, if you are using Windows,.
+To launch the application, on Mac OS simply double-click on the mzAdan.jar file or double click on the mzAdan.bat file, if you are using Windows.
 
 ## Content 
 
