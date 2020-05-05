@@ -2,11 +2,11 @@
 
 # MzAdan
 
-MzAdan is a cross-platform (Windows, Mac Os, Linux) Java desktop application for the annotation of high resolution full scan mass spectra acquired in positive mode and currently focused one singly charged adduct ions. 
+MzAdan is a cross-platform (Windows, Mac Os, Linux) Java desktop application for the annotation of high resolution full scan mass spectra acquired in positive or negative mode and currently focused one singly charged adduct ions. 
 
 ## Description 
 
-Observation of adducts and neutral losses is quite common in electrospray ionisation (ESI) and can be used for the identification of protonated molecules, which can then be assigned as precursor ions for tandem mass spectrometry (MS/MS). The focus of the mzAdan software is to automatically annotate [M+H]+ candidates with the help of a customizable set of annotations. It assumes that any ion in the mass spectrum is an hypothetical [M+H]+ regardless of its intensity. The current version of mzAdan works on singly charged ions in positive mode but will be extended to negative mode and multiply charged ions. The software can process a single spectrum or multiple spectra in the mgf format. 
+Observation of adducts and neutral losses is quite common in electrospray ionisation (ESI) and can be used for the identification of protonated molecules, which can then be assigned as precursor ions for tandem mass spectrometry (MS/MS). The focus of the mzAdan software is to automatically annotate [M+H]+ candidates with the help of a customizable set of annotations. It assumes that any ion in the mass spectrum is an hypothetical [M+H]+ regardless of its intensity. The current version of mzAdan works on singly charged ions but will evnetually be extended to multiply charged ions. The software can process a single spectrum or multiple spectra in the mgf format. 
 
 ## Prerequisite and Usage
 
