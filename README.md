@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/sib-pig/mzAdan/master/mzadan_logo.png" width="150"></p>
 
-# MzAdan
+# MzAdan (v.1.1.0)
 
 MzAdan is a cross-platform (Windows, Mac Os, Linux) Java desktop application for the annotation of high resolution full scan mass spectra acquired in positive or negative mode and currently focused one singly charged adduct ions. 
 
